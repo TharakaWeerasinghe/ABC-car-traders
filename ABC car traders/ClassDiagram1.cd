@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ABC_car_traders.Login">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUIAQQACAAABAAAAGAAAQKgIAAAAAAgEAIAQBEACA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Register">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEIAUSACAAARAIECGACAASQICQAAAgIGBAAABFACg=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.AdminMain">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KBAAoBQQACADAZAAAIDAEAgiBEAAAGAggBAAAYBACCg=</HashCode>
+      <FileName>AdminMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Customers">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkBEAAgSACIgADQICDCAAAASQIAQAAggAAAAAQZhgCg=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Manage_Orders">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBEEA4QAiJgARQAATCAQAASAJQAAEoAACAAAQJAAKg=</HashCode>
+      <FileName>Manage Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Products">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgFgAAwQAiIoIBQAADCAEYASCIEAAAgAAIAEAQJgACg=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Customer_Report">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAQBAAACCAAAACAIAAAABAAAAAQABAACg=</HashCode>
+      <FileName>Customer Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Income_Report">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAACAACAAABAAACCAAAACAIAAAAAAAAAQAABAACg=</HashCode>
+      <FileName>Income Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Inventory">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAABAAACCAgAACAIAAAEAAAAAAAABAACg=</HashCode>
+      <FileName>Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.UserMain">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABSSASAAgBAAIADhAAACgAAEAAAAgQQCAQFDACg=</HashCode>
+      <FileName>UserMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Shop">
+    <Position X="2.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAABAAECBAABAAACmAEAASCIEAAAgAAAAAAQJAACw=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Cartview">
+    <Position X="4.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEBAAIQAACAAARAQACCAAAASAIAAQDAQABEC0AAAACg=</HashCode>
+      <FileName>Cartview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.Account_Settings">
+    <Position X="6.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAgSACAAARQIACCAAAACQIAQAAAgAAAAAABAACg=</HashCode>
+      <FileName>Account Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.My_Orders">
+    <Position X="8.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYBAAAEAAiAAABAAACCAAAACAIQAAAAAAAAAAABAACg=</HashCode>
+      <FileName>My Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.SQl_Get_Data">
+    <Position X="10.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAQAAAAAAQAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>SQl_Get_Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.SqlDataManipulator">
+    <Position X="12.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SqlDataManipulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ABC_car_traders.UserInstance">
+    <Position X="13.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
